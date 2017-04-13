@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>After discussing a proposal, every member of a Loomio group can in fact make one of four choices: agree, disagree, abstain, or block.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T044852Z" creationid="hcartagena" creationdate="20170413T044852Z">
+        <seg>Tras discutirse una propuesta, cada miembro de un grupo de Loomio en la práctica puede adoptar una de cuatro posturas: de acuerdo, en desacuerdo, abstención o bloqueo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loomio and the problem of deliberation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T025404Z" creationid="hcartagena" creationdate="20170413T025404Z">
@@ -16,8 +24,8 @@
       <tuv lang="EN">
         <seg>Loomio&lt;t0/&gt; &lt;t1/&gt;is a decision-making software developed by a group of activists and programmers based in Wellington, New Zealand, since 2012.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20170413T042822Z" creationid="hcartagena" creationdate="20170413T042822Z">
-        <seg>Loomio&lt;t0/&gt; &lt;t1/&gt;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T043038Z" creationid="hcartagena" creationdate="20170413T042822Z">
+        <seg>Loomio&lt;t0/&gt; &lt;t1/&gt; es un software para la toma de decisiones desarrollado por un grupo de activistas y programadores con sede en Wellington, Nueva Zelanda, desde 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,6 +64,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T034327Z" creationid="hcartagena" creationdate="20170413T034327Z">
         <seg>Los fundadores del software para la toma de decisiones Loomio quieren dar acceso a todos a esa habilidad esencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The latter is a form of&lt;t2/&gt; &lt;t3/&gt;veto power&lt;t4/&gt;, which forces the group to reconsider the initial proposal and amend it until consensus has been reached.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T045002Z" creationid="hcartagena" creationdate="20170413T045002Z">
+        <seg>La última es una forma de&lt;t2/&gt; &lt;t3/&gt;poder de veto&lt;t4/&gt;, que obliga al grupo a reconsiderar la propuesta inicial y modificarla hasta lograr un consenso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Widely used within the Circles of Podemos in Spain as well as hundreds of cooperatives, social enterprises, municipalities, and activist groups around the world, Loomio’s main feature is to nudge groups towards consensus.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
+        <seg>Loomio, que es ampliamente usado en los Círculos de Podemos en España, así como en cientos de cooperativas, empresas sociales, municipios y grupos activistas en todo el mundo, tiene como principal característica el hecho de estimular el consenso en los grupos.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
