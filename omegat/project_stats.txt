@@ -1,0 +1,14 @@
+12-04-17 23:57
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      206	    4121	                    19711	                    23622	        1	
+Pendientes:       	      204	    4109	                    19639	                    23538	        1	
+Únicos:           	      205	    4118	                    19692	                    23601	        1	
+Pendientes únicos:	      203	    4106	                    19620	                    23517	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo                          	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Loomio and the problem of deliberation.docx	               206	                 204	             205	                        203	          4121	               4109	           4118	                      4106	                          19711	                               19639	                           19692	                                      19620	                          23622	                               23538	                           23601	                                      23517	
