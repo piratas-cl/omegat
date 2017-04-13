@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though endowing individuals with such power in an online environment can be risky, Loomio groups are often extensions of preexisting offline relationships, and thus of preexisting networks of trust.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T052456Z" creationid="hcartagena" creationdate="20170413T052456Z">
+        <seg>Si bien dotar a los individuos de tal poder en un entorno virtual puede ser riesgoso, los grupos de Loomio suelen ser extensiones de relaciones que ya existían en el mundo real y, por tanto, de redes de confianza preexistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I personally do not believe in large groups, I only believe in small groups.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T053027Z" creationid="edgardoadriano" creationdate="20170413T053027Z">
         <seg>Personalmente, no creo en los grupos grande. Mi convicción está en los grupos pequeños. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In 2012, Knight, Barlett, Lemmon, Alanna Krause, Aaorn Thornton and Vivien Maidaborn went on to found the Loomio cooperative, which is part of Enspiral, and currently employs&lt;t3/&gt; &lt;t4/&gt;eleven worker-members&lt;t5/&gt; &lt;t6/&gt;who have made a long-term commitment to the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T054441Z" creationid="hcartagena" creationdate="20170413T054441Z">
+        <seg>En 2012, Knight, Barlett, Lemmon, Alanna Krause, Aaorn Thornton y Vivien Maidaborn</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +50,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T054248Z" creationid="edgardoadriano" creationdate="20170413T054248Z">
         <seg>En el contexto de Podemos, sin embargo, te encuentras con un entorno cultural que proviene de los experimentos de democracia directa realizados por los Indignados  y de una segmento más político en el sentido estricto de la palabra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indeed, Loomio had been originally conceived by activists involved in Occupy Wellington in 2011 as a tool that could help turn the open-ended meetings of assemblies and working groups into action-oriented proposals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T053158Z" creationid="hcartagena" creationdate="20170413T053158Z">
+        <seg>De hecho, Loomio fue concebido en su origen por activistas que participaron en Occupy Wellington en 2011 como una herramienta que pudiera ayudarles a convertir las reuniones de las asambleas y los grupos de trabajo que quedaban inconclusas en propuestas orientadas a la acción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103,6 +127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The four-hand signs that appear in the Loomio interface are in fact borrowed from the hand signals adopted by the Occupy movement around the world.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T053808Z" creationid="hcartagena" creationdate="20170413T053808Z">
+        <seg>Los cuatro símbolos de la mano que aparecen en la interfaz de Loomio de hecho fueron tomados de las señas manuales adoptadas por el movimiento mundial de Occupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The latter is a form of&lt;t2/&gt; &lt;t3/&gt;veto power&lt;t4/&gt;, which forces the group to reconsider the initial proposal and amend it until consensus has been reached.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T045002Z" creationid="hcartagena" creationdate="20170413T045002Z">
@@ -123,6 +155,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
         <seg>Loomio, que es ampliamente usado en los Círculos de Podemos en España, así como en cientos de cooperativas, empresas sociales, municipios y grupos activistas en todo el mundo, tiene como principal característica el hecho de estimular el consenso en los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Ben Knight and I were in the communications working group [at Occupy Wellington],” recalls Richard Bartlett, a co-founder of Loomio.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T053926Z" creationid="hcartagena" creationdate="20170413T053926Z">
+        <seg>“Ben Knight y yo estábamos en el grupo de trabajo de comunicaciones [de Occupy Wellington]” recuerda Richard Bartlett, cofundador de Loomio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“We had a lot of people and work to manage, so we were looking for project management software, but everything we could find was based on a hierarchical attitude to organising.” Thus, together with Hannah Salmon and Jon Lemmon the two decided to contact&lt;t0/&gt; &lt;t1/&gt;Enspiral&lt;t2/&gt;, a network and incubator of social enterprises based in Wellington.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170413T054220Z" creationid="hcartagena" creationdate="20170413T054220Z">
+        <seg>“Teníamos que administrar mucha gente y mucho trabajo, así que estábamos en la búsqueda de software de gestión de proyectos, pero todo lo que encontrábamos se basaba en un paradigma jerárquico de organización”. Así que junto con Hannah Salmon y Jon Lemmon los dos decidieron contactar a&lt;t0/&gt; &lt;t1/&gt;Enspiral&lt;t2/&gt;, una red e incubadora de empresas sociales con sede en Wellington.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
