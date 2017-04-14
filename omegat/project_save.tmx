@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marco Deseriis is a Marie Curie Fellow at the Scuola Normale Superiore in Florence and an assistant professor at Northeastern University in Boston.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T142846Z" creationid="edgardoadriano" creationdate="20170414T142846Z">
+        <seg>Marco Deseriis es becario Marie Curie en la Scuola Normale Superiore en Florencia y Profesor Ayudante en la Northeastern University de Boston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marco Deseriis: Why was your encounter with the Enspiral network important?</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010519Z" creationid="hcartagena" creationdate="20170414T010519Z">
@@ -537,8 +545,8 @@
       <tuv lang="EN">
         <seg>Richard Bartlett is a co-founder of the decision-making software Loomio.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133516Z" creationid="edgardoadriano" creationdate="20170414T133516Z">
-        <seg>Richard Bartlett es co-fundador del soft</seg>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133639Z" creationid="edgardoadriano" creationdate="20170414T133516Z">
+        <seg>Richard Bartlett es cofundador del software para la toma de decisiones Loomio. </seg>
       </tuv>
     </tu>
     <tu>
