@@ -151,6 +151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That’s already a very peculiar situation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T005613Z" creationid="edgardoadriano" creationdate="20170414T005613Z">
+        <seg>Se trata de una situación muy peculiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The founders of decision-making software Loomio want to give everyone access to that essential skill.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T034327Z" creationid="hcartagena" creationdate="20170413T034327Z">
@@ -193,8 +201,8 @@
       <tuv lang="EN">
         <seg>We found 2,500 groups that had been started by 2,500 individuals.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T004550Z" creationid="edgardoadriano" creationdate="20170414T004550Z">
-        <seg>Encontra</seg>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T005600Z" creationid="edgardoadriano" creationdate="20170414T004550Z">
+        <seg>Encontramos 2500 grupos que se habían creados por 2500 personas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -211,6 +219,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
         <seg>Loomio, que es ampliamente usado en los Círculos de Podemos en España, así como en cientos de cooperativas, empresas sociales, municipios y grupos activistas en todo el mundo, tiene como principal característica el hecho de estimular el consenso en los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have all these different groups of people who share some a sense of collective identity, but that have been independently motivated to start a Loomio.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T010701Z" creationid="edgardoadriano" creationdate="20170414T010701Z">
+        <seg>Esto, ya que tienes todos estos grupos distintos de personas que comparten rasgos de una identidad colectiva, pero que se motivaron  a usar Loomio de manera independiente.</seg>
       </tuv>
     </tu>
     <tu>
