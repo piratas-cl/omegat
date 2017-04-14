@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At that point, it is really common for those who had not participated in the discussion  to come back and express their opinion about aspects of the conversation that had been neglected or downplayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035232Z" creationid="hcartagena" creationdate="20170414T035232Z">
+        <seg>En ese momento, es muy común que aquellos que no habían participado en la discusión vuelvan y manifiesten su opinión sobre aspectos de la conversación que habían sido desatendidos o desestimados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time, we could say that the deliberations that go on within the central committee of Podemos have the power to affect everybody else in the party, but not vice versa.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T052018Z" creationid="edgardoadriano" creationdate="20170414T052018Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132548Z" creationid="edgardoadriano" creationdate="20170414T132548Z">
         <seg>MIra por ejemplo lo &lt;t0/&gt;&lt;t1/&gt; lo que está pasando en Taiwán&lt;t2/&gt;, que es el experimento más avanzado actualmente en el mundo respecto de participación demócrata: ahora es una práctica común que los ciudadanos tengan participación directa en el proceso de creación de una ley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But the idea that we have everything&lt;t0/&gt; &lt;t1/&gt;your group needs to make a good decision&lt;t2/&gt; &lt;t3/&gt;is something that is small enough and we have a credible shot at doing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035954Z" creationid="hcartagena" creationdate="20170414T035954Z">
+        <seg>No obstante, la idea de que tenemos todo&lt;t0/&gt; &lt;t1/&gt;lo que necesita tu grupo para tomar una buena decisión&lt;t2/&gt; &lt;t3/&gt;es algo suficientemente acotado y hemos ganado credibilidad en ello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Loomio a discussion comes to an end when someone decides to turn it into an actionable proposal.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035116Z" creationid="hcartagena" creationdate="20170414T035116Z">
+        <seg>En Loomio, una conversación finaliza cuando alguien decide convertirla en una propuesta que llama a la acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In my understanding, back in 2015 this political layer asked the party base (the Circles) to trust the direction for a few months, at least until the general election of December 2015.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T054457Z" creationid="edgardoadriano" creationdate="20170413T054423Z">
@@ -310,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is just too hard for us.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035826Z" creationid="hcartagena" creationdate="20170414T035826Z">
+        <seg>Se nos hace muy difícil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is really enticing to think in those terms.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T032731Z" creationid="edgardoadriano" creationdate="20170414T032731Z">
@@ -342,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MD: Can you explain how you came to design the user interface the way you designed it?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035700Z" creationid="hcartagena" creationdate="20170414T035700Z">
+        <seg>MD: ¿Puedes explicar cómo llegaron a diseñar la interfaz de usuario del modo en que la diseñaron?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MD: I see your point.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T051856Z" creationid="edgardoadriano" creationdate="20170414T051856Z">
@@ -362,6 +402,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T025549Z" creationid="edgardoadriano" creationdate="20170414T025549Z">
         <seg>MD: ¿Pudieron implementar en alguna medida este plan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MD: What is the added feature of Loomio as compared to the other software you mentioned?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T034851Z" creationid="hcartagena" creationdate="20170414T034741Z">
+        <seg>MD: ¿Cuál es la novedad de Loomio en relación con los otros programas que mencionaste?</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the things we learned from Enspiral is lean, agile development practices.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T040604Z" creationid="hcartagena" creationdate="20170414T040604Z">
+        <seg>Una de las cosas que aprendimos de Enspiral son las prácticas de desarrollo sencillas y ágiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out of those first meetings emerged the idea of building Loomio as a minimal decision-making tool that would complement other tools such as Slack, Trello, Google Docs, calendars, and the like.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012616Z" creationid="hcartagena" creationdate="20170414T012616Z">
@@ -467,6 +523,22 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T041658Z" creationid="edgardoadriano" creationdate="20170414T041658Z">
         <seg>La directiva política de Podemos está compuesta de un grupo de personas que están constantemente en deliberación. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: All these software allow you to have a discussion but none of them has a bias towards concluding.  When you have a large group of people, it is extremely common for a small minority to get highly involved in the discussion while everyone else is standing back.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035315Z" creationid="hcartagena" creationdate="20170414T034838Z">
+        <seg>RB: Los programas que mencioné te permiten llevar una conversación, pero ninguno está orientado a la conclusión. Cuando tienes un grupo grande, es extremadamente común que una pequeña minoría tenga una enorme participación en la discusión mientras todos los demás se mantienen al margen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: Because we are a small company, we do not have the resources to develop a comprehensive piece of software that can satisfy everything a group needs to organize.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035818Z" creationid="hcartagena" creationdate="20170414T035818Z">
+        <seg>RB: Debido a que somos una empresa pequeña, no tenemos los recursos para desarrollar un software integral que pueda abarcar todo lo que un grupo necesita para organizarse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -555,6 +627,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010842Z" creationid="hcartagena" creationdate="20170414T010842Z">
         <seg>Richard Bartlett: Porque Enspiral es una red de empresas sociales que se organiza de manera no jerárquica y tiene muchas afinidades con un movimiento como Occupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So it becomes almost like a game, participants have to work through the concerns and get them to change.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035623Z" creationid="hcartagena" creationdate="20170414T035623Z">
+        <seg>Así se convierte casi en un juego, donde los participantes tienen que resolver las inquietudes y lograr que cambien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -679,6 +759,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The added value of Loomio is that the deliberation and the conclusion are displayed side by side.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035303Z" creationid="hcartagena" creationdate="20170414T035303Z">
+        <seg>La novedad de Loomio es que la deliberación y la conclusión se muestran lado a lado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The disagreement is visualized through a pie chart, in a way that you must pay attention to it, so that the concerns can be resolved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035459Z" creationid="hcartagena" creationdate="20170414T035459Z">
+        <seg>El desacuerdo se visualiza en un gráfico circular de un modo que te obliga a poner atención para que puedan resolverse las inquietudes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The founders of decision-making software Loomio want to give everyone access to that essential skill.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T034327Z" creationid="hcartagena" creationdate="20170413T034327Z">
@@ -715,6 +811,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T011615Z" creationid="hcartagena" creationdate="20170414T011106Z">
         <seg>La pregunta principal que teníamos era cómo coordinarlos, que estuvieran concentrados en sus tareas, que pudieran hacer un trabajo contundente, todo ello sin usar un método jerárquico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The proposal &lt;t0/&gt;functions as a fresh invitation &lt;t1/&gt;for everyone in the group to participate again.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035140Z" creationid="hcartagena" creationdate="20170414T035140Z">
+        <seg>La propuesta &lt;t0/&gt;funciona como una nueva invitación &lt;t1/&gt;a que todos vuelvan a participar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -763,6 +867,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132853Z" creationid="edgardoadriano" creationdate="20170414T132853Z">
         <seg>Esto sucede gracias a una pequeña influencia de la tecnología y un alto grado de activismo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the difference with polls and other voting mechanisms: you can change your mind as you discuss the proposal.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T035525Z" creationid="hcartagena" creationdate="20170414T035525Z">
+        <seg>Esa es la diferencia con las encuestas y con otros mecanismos de voto: puedes cambiar de parecer mientras se discute la propuesta.</seg>
       </tuv>
     </tu>
     <tu>
