@@ -165,12 +165,28 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>MD: Were you able to implement any part of this plan?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T025549Z" creationid="edgardoadriano" creationdate="20170414T025549Z">
+        <seg>MD: ¿Pudieron implementar en alguna medida este plan?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Eddie! Aquí!</note>
       <tuv lang="EN">
         <seg>MD: What was the next level?</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T052412Z">
         <seg>MD: ¿Cuál fue el siguiente paso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MD: You were trying to create a Loomio of Loomios to scale direct democracy from the local to the national...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T024534Z" creationid="edgardoadriano" creationdate="20170414T024534Z">
+        <seg>MD: ¿Ustedes querían crear una especie de Loomio de Loomios con el fin que escalar la democracia directa desde lo local a lo nacional...? </seg>
       </tuv>
     </tu>
     <tu>
@@ -203,6 +219,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012616Z" creationid="hcartagena" creationdate="20170414T012616Z">
         <seg>De esas primeras reuniones surgió la idea de hacer Loomio como una herramienta básica para la toma de decisiones que pudiera complementar a las otras herramientas como Slack, Trello, Google Docs, calendarios, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: Exactly!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T024612Z" creationid="edgardoadriano" creationdate="20170414T024612Z">
+        <seg>RB: ¡Exacto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: No, because political reality got in the way.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T025614Z" creationid="edgardoadriano" creationdate="20170414T025614Z">
+        <seg>RB: No, porque la realidad política se impuso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -299,6 +331,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T015624Z" creationid="edgardoadriano" creationdate="20170414T015624Z">
         <seg>Eso fue lo último que hicimos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Party got more and more hungry for power, and pushed itself further and further away from the Circles.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T025808Z" creationid="edgardoadriano" creationdate="20170414T025808Z">
+        <seg>El Partido comenzó a tener más y más hambre de poder, y comenzó a alejarse  cada vez más de los Círculos</seg>
       </tuv>
     </tu>
     <tu>
