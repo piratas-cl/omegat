@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>About 18 months ago we built a frontend in Javascript.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T170127Z" creationid="hcartagena" creationdate="20170414T170127Z">
+        <seg>Hace unos 18 meses construimos un frontend en Javascript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About the authors</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133447Z" creationid="edgardoadriano" creationdate="20170414T133447Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012415Z" creationid="hcartagena" creationdate="20170414T012312Z">
         <seg>Ben, ¿hiciste aquello?” Era algo muy básico, pero yo nunca antes había estado expuesto un nivel tan bueno de práctica organizacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both codes are released on&lt;t0/&gt; &lt;t1/&gt;GitHub&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T170147Z" creationid="hcartagena" creationdate="20170414T170147Z">
+        <seg>Pero los códigos están liberados en&lt;t0/&gt; &lt;t1/&gt;GitHub&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -771,6 +787,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010842Z" creationid="hcartagena" creationdate="20170414T010842Z">
         <seg>Richard Bartlett: Porque Enspiral es una red de empresas sociales que se organiza de manera no jerárquica y tiene muchas afinidades con un movimiento como Occupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ruby on Rails handles the databases and the logic and Javascript handles the user interface.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T171308Z" creationid="hcartagena" creationdate="20170414T171308Z">
+        <seg>Ruby on Rails maneja las bases de datos y la lógica y Javascript maneja la interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ruby on Rails is designed for quick prototyping, it is really easy to build a block from scratch, it’s like a scaffolding language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T184923Z" creationid="hcartagena" creationdate="20170414T184923Z">
+        <seg>Ruby on Rails está diseñado para hacer prototipos rápidamente, es muy fácil crear un bloque desde cero, es como un lenguaje de andamiaje.</seg>
       </tuv>
     </tu>
     <tu>
