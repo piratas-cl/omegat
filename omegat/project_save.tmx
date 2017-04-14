@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, some groups use formal consensus, some use majority rules, and others just use it for consultation and deliberation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T162159Z" creationid="hcartagena" creationdate="20170414T162159Z">
+        <seg>Por ejemplo, algunos grupos usan el consenso formal, algunos usan reglas de mayoría y otros simplemente lo usan para consulta y deliberación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, we often hear from people who want to be able to write multiple proposals at the same time.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T161610Z" creationid="hcartagena" creationdate="20170414T161610Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T035700Z" creationid="hcartagena" creationdate="20170414T035700Z">
         <seg>MD: ¿Puedes explicar cómo llegaron a diseñar la interfaz de usuario del modo en que la diseñaron?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MD: Can you give an example of how a group customized the Loomio interface to meet their particular needs?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T162332Z" creationid="hcartagena" creationdate="20170414T162332Z">
+        <seg>MD: ¿Puedes dar un ejemplo de un grupo que haya adaptado la interfaz de Loomio para atender sus propias necesidades?</seg>
       </tuv>
     </tu>
     <tu>
@@ -675,6 +691,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T041629Z" creationid="edgardoadriano" creationdate="20170414T041629Z">
         <seg>RB: Sí y no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: Yes, I remember one particular change that came from one of the Pirate Parties.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T163805Z" creationid="hcartagena" creationdate="20170414T163805Z">
+        <seg>RB: Sí, recuerdo un cambio en particular que hizo uno de los Partidos Piratas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -959,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They added a fifth purple button, that says “I am committed, I am committed to do something.” When our group wants someone to take action, we simply use the Agree button and then add a text that says “agree to this proposal if you want to join a working group.” So we kind of do it without building the commitment into the interface.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T164429Z" creationid="hcartagena" creationdate="20170414T164429Z">
+        <seg>Ellos sumaron un quinto botón morado que dice “Me comprometo”. Cuando nuestro grupo quiere que alguien haga algo, simplemente usamos el botón "Estoy de acuerdo" y le añadimos un texto que dice “acepta esta propuesta si quieres sumarte a un grupo de trabajo”. Así que hacemos algo parecido sin que el compromiso esté incorporado en la interfaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They learned from people in Tunisia, and now they’re&lt;t3/&gt; &lt;t4/&gt;passing their lessons on&lt;t5/&gt; &lt;t6/&gt;to people in France.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133230Z" creationid="edgardoadriano" creationdate="20170414T133230Z">
@@ -1059,6 +1091,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T004448Z" creationid="edgardoadriano" creationdate="20170414T004448Z">
         <seg>Es decir, hicimos una búsqueda en la base de datos apuntando a grupos que contenían la palabra "Podemos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want to push people towards convergence, without frustrating them and allowing for a certain degree of flexibility. Indeed, the minimal approach to design means that Loomio is extraordinarily adaptable to different groups, with different decision-making protocols.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T162130Z" creationid="hcartagena" creationdate="20170414T162130Z">
+        <seg>Queremos empujar a la gente hacia la convergencia sin frustrarlos y dar cierto grado de flexibilidad. De hecho, el enfoque minimalista del diseño implica que Loomio sea extraordinariamente adaptable a distintos grupos, con diferentes protocolos de toma de decisiones.</seg>
       </tuv>
     </tu>
     <tu>
