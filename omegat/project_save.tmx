@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>About the authors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133447Z" creationid="edgardoadriano" creationdate="20170414T133447Z">
+        <seg>Información sobre los autores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After discussing a proposal, every member of a Loomio group can in fact make one of four choices: agree, disagree, abstain, or block.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044852Z" creationid="hcartagena" creationdate="20170413T044852Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012513Z" creationid="hcartagena" creationdate="20170414T012513Z">
         <seg>Alanna también nos presentó&lt;t0/&gt; &lt;t1/&gt;Trello&lt;t2/&gt;, una aplicación de gestión de proyectos que puede usarse de una manera muy democrática, ya que todos pueden manipular las tarjetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All around the world, there are local incarnations, new experiments in participation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133250Z" creationid="edgardoadriano" creationdate="20170414T133250Z">
+        <seg>Por todo el mundo, existen concreciones locales, nuevos experimentos de participación. </seg>
       </tuv>
     </tu>
     <tu>
@@ -519,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Richard Bartlett is a co-founder of the decision-making software Loomio.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133516Z" creationid="edgardoadriano" creationdate="20170414T133516Z">
+        <seg>Richard Bartlett es co-fundador del soft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Richard Bartlett: Because Enspiral is a network of social enterprises that are organised non-hierarchically and has many affinities with a movement like Occupy.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010842Z" creationid="hcartagena" creationdate="20170414T010842Z">
@@ -743,6 +767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This supranational network already exists, and it is evolving faster than any institutions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133357Z" creationid="edgardoadriano" creationdate="20170414T133357Z">
+        <seg>Esta red supranacional ya existe, y está evolucionando más rápido que cualquier otra institución. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This was mind-blowing to people as they never had a chance to practice it before.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T051806Z" creationid="edgardoadriano" creationdate="20170414T051806Z">
@@ -779,6 +811,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T005600Z" creationid="edgardoadriano" creationdate="20170414T004550Z">
         <seg>Encontramos 2500 grupos que se habían creados por 2500 personas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We just need to keep making friends across borders, sharing experiences, and learning from each other.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133431Z" creationid="edgardoadriano" creationdate="20170414T133431Z">
+        <seg>Solo necesitamos seguir haciendo amigos más allá de las fronteras, compartir las experiencias y aprender entre nosotros. </seg>
       </tuv>
     </tu>
     <tu>
