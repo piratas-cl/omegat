@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alanna also introduced us to&lt;t0/&gt; &lt;t1/&gt;Trello&lt;t2/&gt;, a project management application that you can use in a highly democratic way as everyone can move the cards around.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012513Z" creationid="hcartagena" creationdate="20170414T012513Z">
+        <seg>Alanna también nos presentó&lt;t0/&gt; &lt;t1/&gt;Trello&lt;t2/&gt;, una aplicación de gestión de proyectos que puede usarse de una manera muy democrática, ya que todos pueden manipular las tarjetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And Alanna Krause was really good with that stuff.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012019Z" creationid="hcartagena" creationdate="20170414T012019Z">
+        <seg>Y Alanna Krause era muy buena en eso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And once the elections are over we will grow the technology to map the circles to the institutions.”</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T235931Z" creationid="edgardoadriano" creationdate="20170413T235931Z">
@@ -30,10 +46,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ben, have you done that?” This is very basic, but I just hadn’t been exposed to such a good organizing practice before.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012415Z" creationid="hcartagena" creationdate="20170414T012312Z">
+        <seg>Ben, ¿hiciste aquello?” Era algo muy básico, pero yo nunca antes había estado expuesto un nivel tan bueno de práctica organizacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the meetings, Alanna was taking notes, noting the actions that we said we were going to do.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012213Z" creationid="hcartagena" creationdate="20170414T012213Z">
+        <seg>En esas reuniones, Alanna tomaba nota, anotaba las cosas que habíamos dicho que haríamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even though endowing individuals with such power in an online environment can be risky, Loomio groups are often extensions of preexisting offline relationships, and thus of preexisting networks of trust.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T052456Z" creationid="hcartagena" creationdate="20170413T052456Z">
         <seg>Si bien dotar a los individuos de tal poder en un entorno virtual puede ser riesgoso, los grupos de Loomio suelen ser extensiones de relaciones que ya existían en el mundo real y, por tanto, de redes de confianza preexistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For us that was the real fodder for the conversation with Enspiral.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T011957Z" creationid="hcartagena" creationdate="20170414T011957Z">
+        <seg>Para nosotros era ese el verdadero motivo de la conversación con Enspiral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,6 +159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MD: Can you tell me a little bit about her role in the early stages of the project?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012054Z" creationid="hcartagena" creationdate="20170414T012054Z">
+        <seg>MD: ¿Puedes contarme un poco sobre su papel en las etapas tempranas del proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marco Deseriis: Why was your encounter with the Enspiral network important?</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010519Z" creationid="hcartagena" creationdate="20170414T010519Z">
@@ -135,10 +183,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Out of those first meetings emerged the idea of building Loomio as a minimal decision-making tool that would complement other tools such as Slack, Trello, Google Docs, calendars, and the like.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012616Z" creationid="hcartagena" creationdate="20170414T012616Z">
+        <seg>De esas primeras reuniones surgió la idea de hacer Loomio como una herramienta básica para la toma de decisiones que pudiera complementar a las otras herramientas como Slack, Trello, Google Docs, calendarios, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RB: Not really, because we decided to follow through with the request we received from LaboDemo in January 2015.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T004412Z" creationid="edgardoadriano" creationdate="20170414T004412Z">
         <seg>RB: En realidad no, porque decidimos ceñirnos al requerimiento que recibimos de LaboDemo en enero de 2015. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: Soon after we met, we started a series of weekly meetings about developing a democracy software.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012134Z" creationid="hcartagena" creationdate="20170414T012134Z">
+        <seg>RB: Poco después de que nos conociéramos, empezamos a tener varias reuniones semanales sobre el desarrollo de un software para la democracia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -163,6 +227,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010842Z" creationid="hcartagena" creationdate="20170414T010842Z">
         <seg>Richard Bartlett: Porque Enspiral es una red de empresas sociales que se organiza de manera no jerárquica y tiene muchas afinidades con un movimiento como Occupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the following week the collective could look at those notes and check whether everyone had followed through.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012245Z" creationid="hcartagena" creationdate="20170414T012245Z">
+        <seg>Entonces, la semana siguiente el colectivo podía ver esas notas y verificar que todos hubieran cumplido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217,8 +289,8 @@
       <tuv lang="EN">
         <seg>The main question for us was how to coordinate them, keep them on task, have them deliver reliable work, without using a hierarchical method.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20170414T011106Z" creationid="hcartagena" creationdate="20170414T011106Z">
-        <seg>La pregunta principal que teníamos era cómo coordinarlos, </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T011615Z" creationid="hcartagena" creationdate="20170414T011106Z">
+        <seg>La pregunta principal que teníamos era cómo coordinarlos, que estuvieran concentrados en sus tareas, que pudieran hacer un trabajo contundente, todo ello sin usar un método jerárquico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -255,6 +327,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We were looking instead for a nonhierarchical method, where no one has more rights than anyone else and where the plan can emerge organically from the bottom up.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T011835Z" creationid="hcartagena" creationdate="20170414T011835Z">
+        <seg>En cambio, lo que buscábamos era un método no jerárquico, en que nadie tuviera más derechos que el resto y en que el plan pudiera emerger de manera orgánica desde la base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We were really stuck with that basic project management challenge.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T011900Z" creationid="hcartagena" creationdate="20170414T011900Z">
+        <seg>La verdad es que estábamos empantanados en ese dilema básico de gestión de proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When I went to look for project management software, I quickly realized that the majority of project management is designed for the hierarchical method, in the sense that you have someone in charge, who is allocating all the tasks, and that you have a predetermined plan of what the future is going to look like.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T011749Z" creationid="hcartagena" creationdate="20170414T011749Z">
+        <seg>Cuando me puse a buscar software de gestión de proyectos, me di cuenta rápidamente que la gestión de proyectos en su mayoría está diseñada para el método jerárquico, en el sentido de que hay alguien al mando que asigna todas las tareas y que hay un plan prefijado sobre lo que se hará a futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Widely used within the Circles of Podemos in Spain as well as hundreds of cooperatives, social enterprises, municipalities, and activist groups around the world, Loomio’s main feature is to nudge groups towards consensus.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
@@ -275,6 +371,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T053926Z" creationid="hcartagena" creationdate="20170413T053926Z">
         <seg>“Ben Knight y yo estábamos en el grupo de trabajo de comunicaciones [de Occupy Wellington]” recuerda Richard Bartlett, cofundador de Loomio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Let me see, Jon have you done this?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T012314Z" creationid="hcartagena" creationdate="20170414T012302Z">
+        <seg>“A ver, Jon, ¿hiciste esto?</seg>
       </tuv>
     </tu>
     <tu>
