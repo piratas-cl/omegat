@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And to be fair, it is only now that we are getting a plug-in system in place that is mature enough to allow people to experiment with alternative decision-making protocols.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T164710Z" creationid="hcartagena" creationdate="20170414T164710Z">
+        <seg>Y, para ser justos, solo ahora estamos implementando un sistema de plug-ins que está lo suficientemente maduro para permitir a la gente experimentar con protocolos alternativos para la toma de decisiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And you could put that decision anywhere you wanted.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T160133Z" creationid="hcartagena" creationdate="20170414T160133Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132548Z" creationid="edgardoadriano" creationdate="20170414T132548Z">
         <seg>MIra por ejemplo lo &lt;t0/&gt;&lt;t1/&gt; lo que está pasando en Taiwán&lt;t2/&gt;, que es el experimento más avanzado actualmente en el mundo respecto de participación demócrata: ahora es una práctica común que los ciudadanos tengan participación directa en el proceso de creación de una ley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But other than that, we haven’t seen much innovation on this level.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T164625Z" creationid="hcartagena" creationdate="20170414T164625Z">
+        <seg>Pero, salvo por eso, no hemos visto mucha innovación a este nivel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -501,6 +517,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>MD: What programming language is Loomio written in?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T164801Z" creationid="hcartagena" creationdate="20170414T164801Z">
+        <seg>MD: ¿En qué lenguaje de programación está escrito Loomio?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Eddie! Aquí!</note>
       <tuv lang="EN">
         <seg>MD: What was the next level?</seg>
@@ -563,6 +587,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T034854Z" creationid="edgardoadriano" creationdate="20170414T034854Z">
         <seg>Mi perspectiva es que uno termina siempre enfrentándose con el problema de la deilberación independiente del sistema de gobierno exista. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now we have got the architecture where we can tolerate lots more experimentation without upsetting anyone who is expecting Loomio to work the way it has always worked.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T164746Z" creationid="hcartagena" creationdate="20170414T164746Z">
+        <seg>Ahora tenemos la arquitectura en que podemos tolerar mucha más experimentación sin molestar a nadie que espera que Loomio funcione de la manera en que siempre lo ha hecho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -667,6 +699,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012134Z" creationid="hcartagena" creationdate="20170414T012134Z">
         <seg>RB: Poco después de que nos conociéramos, empezamos a tener varias reuniones semanales sobre el desarrollo de un software para la democracia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: The backend is in Ruby on Rails.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T170108Z" creationid="hcartagena" creationdate="20170414T170108Z">
+        <seg>RB: El backend está en Ruby on Rails.</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,6 +907,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T030437Z" creationid="edgardoadriano" creationdate="20170414T025808Z">
         <seg>El Partido comenzó a tener más y más hambre de poder, y comenzó a alejarse  cada vez más de los Círculo.s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Pirates decided to create an ad hoc button, which is really cool.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T164608Z" creationid="hcartagena" creationdate="20170414T164608Z">
+        <seg>Los Piratas decidieron crear un botón ad hoc, lo que es verdaderamente genial.</seg>
       </tuv>
     </tu>
     <tu>
