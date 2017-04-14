@@ -191,6 +191,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We found 2,500 groups that had been started by 2,500 individuals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T004550Z" creationid="edgardoadriano" creationdate="20170414T004550Z">
+        <seg>Encontra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We searched the database for groups that had the word Podemos in it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T004448Z" creationid="edgardoadriano" creationdate="20170414T004448Z">
+        <seg>Es decir, hicimos una búsqueda en la base de datos apuntando a grupos que contenían la palabra "Podemos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Widely used within the Circles of Podemos in Spain as well as hundreds of cooperatives, social enterprises, municipalities, and activist groups around the world, Loomio’s main feature is to nudge groups towards consensus.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
