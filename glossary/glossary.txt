@@ -1,1 +1,3 @@
 decision-making software	software para la toma de decisiones
+Richard Bartlett	Richard Bartlett
+Marco Deseriis	Marco Deseriis
