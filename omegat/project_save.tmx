@@ -239,6 +239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>My perspective is that you are always going to wind up with the problem of deliberation regardless of the system of government you have.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T034854Z" creationid="edgardoadriano" creationdate="20170414T034854Z">
+        <seg>Mi perspectiva es que uno termina siempre enfrentándose con el problema de la deilberación independiente del sistema de gobierno exista. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of the frustrations within the current political system is that most people are alienated from deliberation.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T035647Z" creationid="hcartagena" creationdate="20170413T035647Z">
@@ -507,6 +515,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
         <seg>Loomio, que es ampliamente usado en los Círculos de Podemos en España, así como en cientos de cooperativas, empresas sociales, municipios y grupos activistas en todo el mundo, tiene como principal característica el hecho de estimular el consenso en los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can implement a very complex system of proxies and delegations,&lt;t0/&gt; &lt;t1/&gt;as in the case of LiquidFeeback&lt;t2/&gt;, but you are still going to wind up with deliberation, that is, with how you get a small group of people to negotiate, organize, make compromises, and build consensus.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T040157Z" creationid="edgardoadriano" creationdate="20170414T040157Z">
+        <seg>Se puede implementar un sistema muy complejo de apoderados y delegados, &lt;t0/&gt;&lt;t1/&gt; como en el caso de LiquidFeedback&lt;t2/&gt;, pero aún así te encontrás con la dificultad de la deliberación; es decir, cómo lograr que un pequeño grupo de peresonas logren negociar, organizarse, ceder y lograr consensos. </seg>
       </tuv>
     </tu>
     <tu>
