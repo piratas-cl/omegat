@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And periodically people talk on Twitter of their own version of Loomio.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021129Z" creationid="hcartagena" creationdate="20170415T021129Z">
+        <seg>Y a menudo la gente comenta en Twitter sobre su propia versión de Loomio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And that is by design.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021210Z" creationid="hcartagena" creationdate="20170415T021210Z">
+        <seg>Y eso es así por diseño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And then we realized we needed to keep track of all these discussions, we needed to put them in the same place, so we embedded the group functionality.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T160613Z" creationid="hcartagena" creationdate="20170414T160613Z">
@@ -326,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GitHub says that the code has been forked about 1,000 times.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021114Z" creationid="hcartagena" creationdate="20170415T021114Z">
+        <seg>GitHub dice que el código se ha bifurcado unas 1000 veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Have you ever been subject to working groups that have demanded more flexibility?</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T160845Z" creationid="hcartagena" creationdate="20170414T160845Z">
@@ -446,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is definitely out there, but we do not keep a close eye on it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021203Z" creationid="hcartagena" creationdate="20170415T021203Z">
+        <seg>Ciertamente, está ahí, pero no lo seguimos de cerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is difficult to transform our political structure without lots of people practicing deliberation in their everyday lives.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T051839Z" creationid="edgardoadriano" creationdate="20170414T051839Z">
@@ -478,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is way more secure to have many instances of the same software than to have one big central repository.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021307Z" creationid="hcartagena" creationdate="20170415T021307Z">
+        <seg>Es mucho más seguro que haya muchas instancias del mismo software a que haya un solo y enorme repositorio central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loomio and the problem of deliberation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T025404Z" creationid="hcartagena" creationdate="20170413T025404Z">
@@ -490,6 +530,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T043038Z" creationid="hcartagena" creationdate="20170413T042822Z">
         <seg>Loomio&lt;t0/&gt; &lt;t1/&gt; es un software para la toma de decisiones desarrollado por un grupo de activistas y programadores con sede en Wellington, Nueva Zelanda, desde 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MD: Are people developing their own derivative versions of Loomio?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T020639Z" creationid="hcartagena" creationdate="20170415T020639Z">
+        <seg>MD: ¿Hay gente que desarrolle sus propias versiones derivadas de Loomio?</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +562,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T162332Z" creationid="hcartagena" creationdate="20170414T162332Z">
         <seg>MD: ¿Puedes dar un ejemplo de un grupo que haya adaptado la interfaz de Loomio para atender sus propias necesidades?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MD: Have you developed a mobile version of Loomio yet?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T020345Z" creationid="hcartagena" creationdate="20170415T020318Z">
+        <seg>MD: ¿Han desarrollado ya una versión de Loomio para móviles?</seg>
       </tuv>
     </tu>
     <tu>
@@ -571,6 +627,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T052412Z">
         <seg>MD: ¿Cuál fue el siguiente paso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MD: Why do you think it is more secure?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021324Z" creationid="hcartagena" creationdate="20170415T021324Z">
+        <seg>MD: ¿Por qué crees que es más seguro?</seg>
       </tuv>
     </tu>
     <tu>
@@ -735,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RB: Security is always a tradeoff.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021416Z" creationid="hcartagena" creationdate="20170415T021416Z">
+        <seg>RB: La seguridad siempre trae un costo aparejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RB: Soon after we met, we started a series of weekly meetings about developing a democracy software.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012134Z" creationid="hcartagena" creationdate="20170414T012134Z">
@@ -755,6 +827,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T160918Z" creationid="hcartagena" creationdate="20170414T160918Z">
         <seg>RB: Es una dificultad de diseño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: We do not have an app of Loomio yet, but the interface has always been designed to work well with mobile.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T020418Z" creationid="hcartagena" creationdate="20170415T020342Z">
+        <seg>RB: No tenemos una app de Loomio todavía, pero la interfaz siempre ha sido diseñada para trabajar bien con móviles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: We do not track it so it is hard to know.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T020704Z" creationid="hcartagena" creationdate="20170415T020704Z">
+        <seg>RB: No le hacemos seguimiento, así que es difícil saberlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1159,6 +1247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are aware of the security implications of activists using cloud software.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T021242Z" creationid="hcartagena" creationdate="20170415T021242Z">
+        <seg>Somos conscientes de las implicaciones de seguridad de los activistas que usan software en la nube.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We don’t do it in school, we don’t do it in the workplace, and we don’t do it in our political system.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T050450Z" creationid="edgardoadriano" creationdate="20170414T050450Z">
@@ -1275,6 +1371,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T040157Z" creationid="edgardoadriano" creationdate="20170414T040157Z">
         <seg>Se puede implementar un sistema muy complejo de apoderados y delegados, &lt;t0/&gt;&lt;t1/&gt; como en el caso de LiquidFeedback&lt;t2/&gt;, pero aún así te encontrás con la dificultad de la deliberación; es decir, cómo lograr que un pequeño grupo de peresonas logren negociar, organizarse, ceder y lograr consensos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use Loomio via a browser on your phone, but you cannot go to the app store and download Loomio, not yet.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T020447Z" creationid="hcartagena" creationdate="20170415T020447Z">
+        <seg>Puedes usar Loomio vía navegador en tu teléfono, pero no puedes ir a la App Store y descargar Loomio. No todavía.</seg>
       </tuv>
     </tu>
     <tu>
