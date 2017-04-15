@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you know, many Circles of Podemos have been using Loomio to extend meetings that happen mostly at a local level.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043358Z" creationid="hcartagena" creationdate="20170415T043358Z">
+        <seg>Como sabrás, muchos Círculos de Podemos han estado usando Loomio para ampliar las reuniones que se hacen en su mayoría a nivel local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At Occupy we had all these enthusiastic volunteers.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010902Z" creationid="hcartagena" creationdate="20170414T010902Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132052Z" creationid="edgardoadriano" creationdate="20170414T132052Z">
         <seg>Pero yo estoy aquí por el sentido de la búsqueda, el sentido del progreso, la lucha. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But I can tell the story from the perspective of the conversations that I have had.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043616Z" creationid="hcartagena" creationdate="20170415T043616Z">
+        <seg>Pero puedo contar la experiencia desde la perspectiva de las conversaciones que he tenido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I think that this is because the cultural, historical, and political context is way more consensus-oriented in Spain than in most parts of the world.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043942Z" creationid="hcartagena" creationdate="20170415T043942Z">
+        <seg>Creo que se debe a que el contexto cultural, histórico y político está mucho más orientado al consenso en España que en la mayoría del resto del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are people now living in cities where they have a drastically increased level of participation in their day-to-day life, that is going to leave them with a sense of expectation on how their country and the world should operate.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132227Z" creationid="edgardoadriano" creationdate="20170414T132227Z">
@@ -438,10 +462,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In January 2015, we received a request from Miguel Arana Catania, one of the activists in LaboDemo, and currently the Director of the&lt;t4/&gt; &lt;t5/&gt;Madrid City Council Participation Project&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T044051Z" creationid="hcartagena" creationdate="20170415T044051Z">
+        <seg>En enero de 2015, recibimos una solicitud de Miguel Arana Catania, uno de los activistas de LaboDemo y actualmente Director del&lt;t4/&gt; &lt;t5/&gt;Proyecto de Participación del Ayuntamiento de Madrid&lt;t6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Loomio a discussion comes to an end when someone decides to turn it into an actionable proposal.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T035116Z" creationid="hcartagena" creationdate="20170414T035116Z">
         <seg>En Loomio, una conversación finaliza cuando alguien decide convertirla en una propuesta que llama a la acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Madrid there is a small group of activists called&lt;t0/&gt; &lt;t1/&gt;Labodemo&lt;t2/&gt; &lt;t3/&gt;who run experiments in democracy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043649Z" creationid="hcartagena" creationdate="20170415T043649Z">
+        <seg>En Madrid hay un pequeño grupo de activistas llamado&lt;t0/&gt; &lt;t1/&gt;Labodemo&lt;t2/&gt; &lt;t3/&gt;que experimenta con la democracia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +614,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just to give you a sense, Loomio usage in Spain accounted for 5% of our total traffic in 2013, jumped to 54% in 2014, and is currently around 40%.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043845Z" creationid="hcartagena" creationdate="20170415T043845Z">
+        <seg>Solo para que te hagas una idea, el uso de Loomio en España representaba un 5% de nuestro tráfico total en 2013, que saltó a 54% en 2014 y actualmente ronda el 40%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Labodemo discovered Loomio and tested it out very early on.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043738Z" creationid="hcartagena" creationdate="20170415T043738Z">
+        <seg>Labodemo descubrió Loomio y lo puso a prueba en sus inicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loomio and the problem of deliberation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T025404Z" creationid="hcartagena" creationdate="20170413T025404Z">
@@ -697,8 +753,8 @@
       <tuv lang="EN">
         <seg>MD: What was the next level?</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T052412Z">
-        <seg>MD: ¿Cuál fue el siguiente paso?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T044154Z">
+        <seg>MD: ¿Cuál era el siguiente nivel?</seg>
       </tuv>
     </tu>
     <tu>
@@ -747,6 +803,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T010519Z" creationid="hcartagena" creationdate="20170414T010519Z">
         <seg>Marco Deseriis: ¿Por qué fue importante tu encuentro con la red de Enspiral?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Miguel told us that they were aware of the massive use of Loomio within the Circles of Podemos and asked us whether there was some way to bring this together and take it to the next level.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T044142Z" creationid="hcartagena" creationdate="20170415T044142Z">
+        <seg>Miguel nos contó que eran conscientes del uso masivo de Loomio en los Círculos de Podemos y nos preguntó si había alguna manera de aunar esto y llevarlo al siguiente nivel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -807,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One way for the Circles to build power from below could be to use Loomio to make some common decisions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043435Z" creationid="hcartagena" creationdate="20170415T043435Z">
+        <seg>Una manera en que los Círculos construyen poder desde la base podría ser usar Loomio para tomar algunas decisiones en común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out of those first meetings emerged the idea of building Loomio as a minimal decision-making tool that would complement other tools such as Slack, Trello, Google Docs, calendars, and the like.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T012616Z" creationid="hcartagena" creationdate="20170414T012616Z">
@@ -859,6 +931,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T125658Z" creationid="edgardoadriano" creationdate="20170414T125658Z">
         <seg>RB: Estoy de acuerdo, el liderazgo de Podemos se disparó en el pie y se disipó mucha energía desde el partido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RB: I should give a disclaimer that I am not involved with Podemos, I have only been in Spain for a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043555Z" creationid="hcartagena" creationdate="20170415T043555Z">
+        <seg>RB: Debería aclarar que no tengo participación en Podemos y que solo he estado en España un par de semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,8 +1009,8 @@
       <tuv lang="EN">
         <seg>RB: We know that somewhere within the Loomio vision there is something that goes beyond groups of a couple of hundred people.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170415T050451Z" creationid="edgardoadriano" creationdate="20170413T052950Z">
-        <seg>RB: Sabemos que en algún punto dentro de la deliberación visión de Loomio existe algo que va más allá de los grupos cuya convocación ronda las doscientas personas. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T050358Z" creationid="edgardoadriano" creationdate="20170413T052950Z">
+        <seg>RB: Sabemos que dentro de la visión de Loomio se quieren trascender los grupos de unos pocos cientos de personas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,6 +1368,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They research technologies, test them, and then offer them to social movements as they arise.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043716Z" creationid="hcartagena" creationdate="20170415T043716Z">
+        <seg>Investigan tecnologías, las someten a prueba y después las ofrecen a los movimientos sociales que van surgiendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They understood its capability and communicated it to others and in particular to the Podemos Circles.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043800Z" creationid="hcartagena" creationdate="20170415T043800Z">
+        <seg>Entendieron sus capacidades y se lo comunicaron a otros y en particular a los Círculos de Podemos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They would say that they prefer to have the user experience to search things than to have this rock-solid, totally impregnable security.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170415T022725Z" creationid="hcartagena" creationdate="20170415T022725Z">
@@ -1332,6 +1428,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T051806Z" creationid="edgardoadriano" creationdate="20170414T051806Z">
         <seg>Esto dejaba a las personas sin palabras, ya que nunca habían tenido la oportunidad de ejercitar algo así. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To your knowledge, has anyone tried to use Loomio to scale up decisions from a local to a regional and national level?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043521Z" creationid="hcartagena" creationdate="20170415T043521Z">
+        <seg>¿Has sabido de alguien que intentara usar Loomio para escalar decisiones desde un nivel local a uno regional y nacional?</seg>
       </tuv>
     </tu>
     <tu>
