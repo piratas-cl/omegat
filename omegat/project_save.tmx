@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MD: I see your argument for decentralisation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T042243Z" creationid="hcartagena" creationdate="20170415T042243Z">
+        <seg>MD: Entiendo tu argumento por la descentralización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MD: I see your point.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T051856Z" creationid="edgardoadriano" creationdate="20170414T051856Z">
@@ -953,8 +961,9 @@
       <tuv lang="EN">
         <seg>RICHARD BARTLETT&lt;t0/&gt; and &lt;t1/&gt;MARCO DESERIIS&lt;t2/&gt; &lt;t3/&gt;2 December 2016</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20170413T025654Z" creationid="hcartagena" creationdate="20170413T025654Z">
-        <seg>RICHARD BARTLETT&lt;t0/&gt; y &lt;t1/&gt;MARCO DESRIIS&lt;t2/&gt; &lt;t3/&gt;2 de diciembre de 2016</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T042434Z" creationid="hcartagena" creationdate="20170413T025654Z">
+        <seg>RICHARD BARTLETT&lt;t0/&gt; y &lt;t1/&gt;MARCO DESRIIS&lt;t2/&gt; &lt;t3/&gt;
+2 de diciembre de 2016</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,6 +1004,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T035623Z" creationid="hcartagena" creationdate="20170414T035623Z">
         <seg>Así se convierte casi en un juego, donde los participantes tienen que resolver las inquietudes y lograr que cambien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So let’s assume that the software is now resilient enough to allow for different kinds of decision-making processes to converge.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T043319Z" creationid="hcartagena" creationdate="20170415T042351Z">
+        <seg>Entonces, supongamos que el software ahora tiene suficiente resiliencia como para que converjan los distintos tipos de procesos de toma de decisiones.</seg>
       </tuv>
     </tu>
     <tu>
