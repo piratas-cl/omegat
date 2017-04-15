@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because JavaScript is so common now, it is also really easy for us to build a package for iOS and Android.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T020217Z" creationid="hcartagena" creationdate="20170415T020217Z">
+        <seg>Ahora que Javascript es tan común, nos resulta muy fácil armar un paquete para iOS y Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because they have never practiced making a compromise, making a negotiation, coming to a “good enough” consensus between disparate parties.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T050730Z" creationid="edgardoadriano" creationdate="20170414T050730Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T052456Z" creationid="hcartagena" creationdate="20170413T052456Z">
         <seg>Si bien dotar a los individuos de tal poder en un entorno virtual puede ser riesgoso, los grupos de Loomio suelen ser extensiones de relaciones que ya existían en el mundo real y, por tanto, de redes de confianza preexistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Facebook has lots of things changing on a page, JavaScript is the best way to handle that kind of complexity.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T015025Z" creationid="hcartagena" creationdate="20170415T014937Z">
+        <seg>Facebook tiene muchas cosas que cambian en una página, Javascript es la mejor manera de manejar ese tipo de complejidad.</seg>
       </tuv>
     </tu>
     <tu>
