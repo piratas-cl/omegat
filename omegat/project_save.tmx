@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further, I suppose that any spying program is more attracted to a large target than a small one.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T031443Z" creationid="hcartagena" creationdate="20170415T031443Z">
+        <seg>Además, supongo que cualquier programa de espionaje está más interesado en un objetivo grande que en uno pequeño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GitHub says that the code has been forked about 1,000 times.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170415T021114Z" creationid="hcartagena" creationdate="20170415T021114Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132227Z" creationid="edgardoadriano" creationdate="20170414T132227Z">
         <seg>Si hay personas viviendo en las ciudades actualmente, donde su nivel de participación ha aumentado drásticamente en su vida cotidiana, esto les generará un nivel de expectativa sobre cómo debería operar su país y el mundo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you run Loomio on your own server you have got complete agency over the decisions that go into how to run it, rather than having to trust us, with our limited resources.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T031418Z" creationid="hcartagena" creationdate="20170415T031418Z">
+        <seg>Si ejecutas Loomio en tu propio servidor tienes plena agencia sobre las decisiones que se refieren a cómo ejecutarlo, en lugar de tener que confiar en nosotros, que tenemos recursos limitados.</seg>
       </tuv>
     </tu>
     <tu>
