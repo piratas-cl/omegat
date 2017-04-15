@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also has a very supportive community around it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170414T185750Z" creationid="hcartagena" creationdate="20170414T185750Z">
+        <seg>También tiene en torno una comunidad que brinda mucho apoyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is all to be seen whether the municipal experiments can scale up without this professional class of mediators.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T131913Z" creationid="edgardoadriano" creationdate="20170414T131749Z">
@@ -1027,6 +1035,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170413T235212Z" creationid="edgardoadriano" creationdate="20170413T235212Z">
         <seg>El razonamiento era más o menos así: "Por ahora, no tenemos ni la tecnología ni la metodología para hacer la conexión entre los Círculos y las instituciones de tienen el poder, y todos sabemos que esto presenta un problema."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then later on we decided to add the frontend in Javascript to stay current with user expectations of what an interface looks like.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T014911Z" creationid="hcartagena" creationdate="20170415T014911Z">
+        <seg>Tiempo después decidimos añadir el frontend en Javascript para estar al día con respecto a las expectativas de los usuarios sobre cómo debe lucir una interfaz.</seg>
       </tuv>
     </tu>
     <tu>
