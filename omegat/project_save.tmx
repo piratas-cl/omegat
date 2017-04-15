@@ -1178,8 +1178,8 @@
       <tuv lang="EN">
         <seg>That is the work of democracy, and most people are excluded from practicing it &lt;t0/&gt;ever&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T050813Z" creationid="edgardoadriano" creationdate="20170414T050813Z">
-        <seg>Este es el el engranaje de la democracia y la mayoría de las personas están excluidas de este ejercicio.</seg>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170415T181538Z" creationid="edgardoadriano" creationdate="20170414T050813Z">
+        <seg>Este es el el engranaje de la democracia y la mayoría de las personas están excluidas de este ejercicio.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,8 +1594,8 @@
       <tuv lang="EN">
         <seg>You can’t be trusted and that’s why we need to have a vanguard, we need to have professional decision-makers.” In response to this attitude, at Loomio we say&lt;t2/&gt;let &lt;t3/&gt;us give everyone access to the skills  of deliberation&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T051220Z" creationid="edgardoadriano" creationdate="20170414T051220Z">
-        <seg>Se pierde la confianza y es por esto que necesitamos tener una vanguardia, necesitamos tener profesionales en el oficio de decidir". Como respuesta a esto, en Loomio decimos &lt;t2/&gt;logremos&lt;t3/&gt; que todos tengan acceso a las herramientas deliberativas.</seg>
+      <tuv lang="ES" changeid="edgardoadriano" changedate="20170415T181657Z" creationid="edgardoadriano" creationdate="20170414T051220Z">
+        <seg>Se pierde la confianza y es por esto que necesitamos tener una vanguardia, necesitamos tener profesionales en el oficio de decidir". Como respuesta a esto, en Loomio decimos &lt;t2/&gt;logremos&lt;t3/&gt;&lt;t4/&gt; que todos tengan acceso a las herramientas deliberativas.</seg>
       </tuv>
     </tu>
     <tu>
