@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because Loomio.org is supporting thousands of groups we do the best we can to strike a balance between security and usability.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T022818Z" creationid="hcartagena" creationdate="20170415T022818Z">
+        <seg>Ya que Loomio.org sustenta a miles de grupos, hacemos cuanto podemos para mantener el equilibrio entre seguridad y usabilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because they have never practiced making a compromise, making a negotiation, coming to a “good enough” consensus between disparate parties.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T050730Z" creationid="edgardoadriano" creationdate="20170414T050730Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132052Z" creationid="edgardoadriano" creationdate="20170414T132052Z">
         <seg>Pero yo estoy aquí por el sentido de la búsqueda, el sentido del progreso, la lucha. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But if you are in a different context, e.g. if you are an activist working at the border between Turkey and Syria, you might have different needs than the average.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T022904Z" creationid="hcartagena" creationdate="20170415T022904Z">
+        <seg>Pero si estás en otro contexto, por ejemplo, si eres un activista que trabaja en la frontera entre Turquía y Siria, tendrías necesidades distintas al promedio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +434,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T130150Z" creationid="edgardoadriano" creationdate="20170414T130150Z">
         <seg>Desde mi perspectiva, en España un gran número de activistas ven al Podemos y dicen "no nos interesa". Estuve ahí en febrero y me encontré un hermoso graffiti que decía &lt;t0/&gt;Podemos (sin Podemos)&lt;t1/&gt;)&lt;t2/&gt;. &lt;t3/&gt; Estas personas renunciaron a la ambición nacional y están poniendo toda su energía a nivel local de las ciudades. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In that case, you can have full control over who has access to Loomio, you can even disconnect it from the internet and have your own internet running it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T023049Z" creationid="hcartagena" creationdate="20170415T023049Z">
+        <seg>En ese caso, puedes tener pleno control sobre quién tiene acceso a Loomio, incluso puedes desconectarlo de Internet y ejecutarlo en tu propio Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -683,6 +707,14 @@
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T031714Z" creationid="edgardoadriano" creationdate="20170414T031714Z">
         <seg>Pero en términos más generales, creo que resulta atractivo pensar en una democracia digital a gran escala e imaginar que la tecnología adecuada nos dará un enfoque radicalmente distinto para hacer gobierno. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most users are happy to make that tradeoff.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T022355Z" creationid="hcartagena" creationdate="20170415T022333Z">
+        <seg>La mayoría de los usuarios se contentan con pagar ese costo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1199,6 +1231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They would say that they prefer to have the user experience to search things than to have this rock-solid, totally impregnable security.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T022725Z" creationid="hcartagena" creationdate="20170415T022725Z">
+        <seg>Dirían que prefieren tener la experiencia de usuario de poder buscar cosas a tener ese férreo nivel de seguridad completamente infranqueable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is thanks to a little bit of technology and a lot of activism.</seg>
       </tuv>
       <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T132853Z" creationid="edgardoadriano" creationdate="20170414T132853Z">
@@ -1347,6 +1387,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T044539Z" creationid="hcartagena" creationdate="20170413T044539Z">
         <seg>Loomio, que es ampliamente usado en los Círculos de Podemos en España, así como en cientos de cooperativas, empresas sociales, municipios y grupos activistas en todo el mundo, tiene como principal característica el hecho de estimular el consenso en los grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You always have people saying “you should encrypt everything.” We could encrypt everything, but then you could not search the conversations because you would need first to decrypt them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T022242Z" creationid="hcartagena" creationdate="20170415T022242Z">
+        <seg>Siempre hay gente que dice “deberías encriptarlo todo”. Podríamos encriptarlo todo, pero entonces no podrías buscar en las conversaciones, porque tendrías que desencriptarlas primero.</seg>
       </tuv>
     </tu>
     <tu>
