@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though I have no evidence for this, it is probably more likely to be subject to spying if you have a million users than if you have fifty users.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T031705Z" creationid="hcartagena" creationdate="20170415T031705Z">
+        <seg>Aunque no tengo pruebas para afirmarlo, supongo que es más probable ser objeto de espionaje si se tiene un millón de usuario que si se tienen cincuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even though endowing individuals with such power in an online environment can be risky, Loomio groups are often extensions of preexisting offline relationships, and thus of preexisting networks of trust.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170413T052456Z" creationid="hcartagena" creationdate="20170413T052456Z">
