@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>Each Circle would then be able to see everyone else’s discussion but only the locals could have talked to each other.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T024013Z" creationid="edgardoadriano" creationdate="20170414T024013Z">
-        <seg>Cada círculo entonces debería ver las discusiones de los demás, pero solo los círculos locales podrían hablar entre sí.  </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T191326Z" creationid="edgardoadriano" creationdate="20170414T024013Z">
+        <seg>Entonces, cada Círculo vería las discusiones de los demás, pero solo los miembros locales podrían conversar entre sí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>For example, a Podemos member would be able to see what has been decided in Barcelona and she could share that information manually with others in her Circle, but there was no General Assembly space.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T024205Z" creationid="edgardoadriano" creationdate="20170414T024205Z">
-        <seg>Por ejemplo, un miembro de Podemos podría ver lo que se decidió en Barcelona y compartir esa información manualmente con otras personas en su Circulo, pero esto deja afuera un espacio para una Asamblea General.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T191357Z" creationid="edgardoadriano" creationdate="20170414T024205Z">
+        <seg>Por ejemplo, un miembro de Podemos podría ver lo que se ha decidido en Barcelona y compartir esa información manualmente con su propio Círculo, pero no habría una Asamblea General.</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,8 +728,8 @@
       <tuv lang="EN">
         <seg>MD: Were you able to implement any part of this plan?</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T025549Z" creationid="edgardoadriano" creationdate="20170414T025549Z">
-        <seg>MD: ¿Pudieron implementar en alguna medida este plan?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T191453Z" creationid="edgardoadriano" creationdate="20170414T025549Z">
+        <seg>MD: ¿Pudieron implementar en alguna medida ese plan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,8 +777,8 @@
       <tuv lang="EN">
         <seg>MD: You were trying to create a Loomio of Loomios to scale direct democracy from the local to the national...</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T024534Z" creationid="edgardoadriano" creationdate="20170414T024534Z">
-        <seg>MD: ¿Ustedes querían crear una especie de Loomio de Loomios con el fin que escalar la democracia directa desde lo local a lo nacional...? </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T191441Z" creationid="edgardoadriano" creationdate="20170414T024534Z">
+        <seg>MD: Intentaban crear una especie de Loomio de Loomios para escalar la democracia directa desde lo local a lo nacional...</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,8 +945,8 @@
       <tuv lang="EN">
         <seg>RB: No, because political reality got in the way.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T025614Z" creationid="edgardoadriano" creationdate="20170414T025614Z">
-        <seg>RB: No, porque la realidad política se impuso.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T192129Z" creationid="edgardoadriano" creationdate="20170414T025614Z">
+        <seg>RB: No, porque se impuso la realidad política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,8 +1098,8 @@
       <tuv lang="EN">
         <seg>So the Circles became this place of militant energy, which aspired to take the power back from the Party.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170415T043630Z" creationid="edgardoadriano" creationdate="20170414T030522Z">
-        <seg>Entonces, los Círculos se convirtieron en un espacio de energía de la militancia, la que aspiraba a recobrar el poder  en manos del Partido. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T193752Z" creationid="edgardoadriano" creationdate="20170414T030522Z">
+        <seg>Entonces, los Círculos se convirtieron en un espacio de dinamismo de las bases, que aspiraban a recobrar el poder en manos del Partido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,8 +1218,8 @@
       <tuv lang="EN">
         <seg>The Party got more and more hungry for power, and pushed itself further and further away from the Circles.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T030437Z" creationid="edgardoadriano" creationdate="20170414T025808Z">
-        <seg>El Partido comenzó a tener más y más hambre de poder, y comenzó a alejarse  cada vez más de los Círculo.s</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T192248Z" creationid="edgardoadriano" creationdate="20170414T025808Z">
+        <seg>El Partido comenzó a tener más y más hambre de poder y comenzó a alejarse cada vez más de los Círculos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,8 +1338,8 @@
       <tuv lang="EN">
         <seg>Then we imagined the figure of a Network coordinator, who could put out a proposal to all of the circles to discuss collectively certain topics.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20170415T190545Z" creationid="edgardoadriano" creationdate="20170414T021946Z">
-        <seg>Después se nos ocurrió el puesto de un coordinador de la Red, alguien que pudiera difundir una propuesta de discusión colectiva de ciertos temas con todos los círculos.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170415T190701Z" creationid="edgardoadriano" creationdate="20170414T021946Z">
+        <seg>Después se nos ocurrió el puesto de un coordinador de la Red, alguien que pudiera difundir una propuesta de discusión colectiva de ciertos temas con todos los Círculos.</seg>
       </tuv>
     </tu>
     <tu>
