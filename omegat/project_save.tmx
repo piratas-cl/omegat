@@ -24,8 +24,8 @@
       <tuv lang="EN">
         <seg>About the authors</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133447Z" creationid="edgardoadriano" creationdate="20170414T133447Z">
-        <seg>Información sobre los autores:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155844Z" creationid="edgardoadriano" creationdate="20170414T133447Z">
+        <seg>Información sobre los autores</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>All around the world, there are local incarnations, new experiments in participation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133250Z" creationid="edgardoadriano" creationdate="20170414T133250Z">
-        <seg>Por todo el mundo, existen concreciones locales, nuevos experimentos de participación. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155806Z" creationid="edgardoadriano" creationdate="20170414T133250Z">
+        <seg>Por todo el mundo, existen concreciones locales, nuevos experimentos de participación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +410,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T160845Z" creationid="hcartagena" creationdate="20170414T160845Z">
         <seg>¿Alguna vez han estado sometidos a grupos de trabajo que hayan exigido más flexibilidad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>His current research project examines the rise of participatory forms of networked democracy through a comparative analysis of a new generation of decision-making software for political participation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T160003Z" creationid="hcartagena" creationdate="20170426T160003Z">
+        <seg>Su proyecto de investigación actual examina el surgimiento de formas de participación de democracia en red a través de un análisis comparativo de una nueva generación de software para la toma de decisiones para la participación política.</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,8 +801,8 @@
       <tuv lang="EN">
         <seg>Marco Deseriis is a Marie Curie Fellow at the Scuola Normale Superiore in Florence and an assistant professor at Northeastern University in Boston.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T142846Z" creationid="edgardoadriano" creationdate="20170414T142846Z">
-        <seg>Marco Deseriis es becario Marie Curie en la Scuola Normale Superiore en Florencia y Profesor Ayudante en la Northeastern University de Boston.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155915Z" creationid="edgardoadriano" creationdate="20170414T142846Z">
+        <seg>Marco Deseriis es becario Marie Curie de la Scuola Normale Superiore de Florencia y Profesor Ayudante en la Northeastern University de Boston.</seg>
       </tuv>
     </tu>
     <tu>
@@ -857,8 +865,8 @@
       <tuv lang="EN">
         <seg>One of the frustrations within the current political system is that most people are alienated from deliberation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20170413T035647Z" creationid="hcartagena" creationdate="20170413T035647Z">
-        <seg>Una de los aspectos del actual sistema político que causa frustración es que la mayoría de la gente se encuentra alienada de la deliberación.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T160550Z" creationid="hcartagena" creationdate="20170413T035647Z">
+        <seg>Uno de los aspectos del actual sistema político que causa frustración es que la mayoría de la gente se encuentra alienada de la deliberación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,8 +1058,8 @@
       <tuv lang="EN">
         <seg>Richard Bartlett is a co-founder of the decision-making software Loomio.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133639Z" creationid="edgardoadriano" creationdate="20170414T133516Z">
-        <seg>Richard Bartlett es cofundador del software para la toma de decisiones Loomio. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155856Z" creationid="edgardoadriano" creationdate="20170414T133516Z">
+        <seg>Richard Bartlett es cofundador del software para la toma de decisiones Loomio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,8 +1370,8 @@
       <tuv lang="EN">
         <seg>They learned from people in Tunisia, and now they’re&lt;t3/&gt; &lt;t4/&gt;passing their lessons on&lt;t5/&gt; &lt;t6/&gt;to people in France.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133230Z" creationid="edgardoadriano" creationdate="20170414T133230Z">
-        <seg>Aprendieron también de la gente en Túnez, y ahora están &lt;t3/&gt;&lt;t4/&gt; compartiendo lo aprendido con &lt;t5/&gt;&lt;t6/&gt; la gente en Francia. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155759Z" creationid="edgardoadriano" creationdate="20170414T133230Z">
+        <seg>Aprendieron también de la gente de Túnez, y ahora están&lt;t3/&gt; &lt;t4/&gt;compartiendo lo aprendido con&lt;t5/&gt; &lt;t6/&gt; la gente de Francia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,8 +1426,8 @@
       <tuv lang="EN">
         <seg>This supranational network already exists, and it is evolving faster than any institutions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133357Z" creationid="edgardoadriano" creationdate="20170414T133357Z">
-        <seg>Esta red supranacional ya existe, y está evolucionando más rápido que cualquier otra institución. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155816Z" creationid="edgardoadriano" creationdate="20170414T133357Z">
+        <seg>Esta red supranacional ya existe y está evolucionando más rápido que cualquier otra institución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,8 +1498,8 @@
       <tuv lang="EN">
         <seg>We just need to keep making friends across borders, sharing experiences, and learning from each other.</seg>
       </tuv>
-      <tuv lang="ES" changeid="edgardoadriano" changedate="20170414T133431Z" creationid="edgardoadriano" creationdate="20170414T133431Z">
-        <seg>Solo necesitamos seguir haciendo amigos más allá de las fronteras, compartir las experiencias y aprender entre nosotros. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170426T155828Z" creationid="edgardoadriano" creationdate="20170414T133431Z">
+        <seg>Solo necesitamos seguir haciendo amigos más allá de las fronteras, compartir las experiencias y aprender de los demás.</seg>
       </tuv>
     </tu>
     <tu>
