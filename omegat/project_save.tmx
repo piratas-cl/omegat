@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Environmentalists want to save the planet.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170625T030500Z" creationid="hcartagena" creationdate="20170625T030500Z">
+        <seg>Los ecologistas quieren salvar el planeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even though I have no evidence for this, it is probably more likely to be subject to spying if you have a million users than if you have fifty users.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170415T031705Z" creationid="hcartagena" creationdate="20170415T031705Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170426T154615Z" creationid="edgardoadriano" creationdate="20170414T130150Z">
         <seg>Desde mi perspectiva, en España hay demasiados activistas que ven al Podemos y dicen “no nos interesa”. Estuve ahí en febrero y me encontré un hermoso graffiti que decía &lt;t0/&gt;Podemos (sin Podemos)&lt;t1/&gt;)&lt;t2/&gt;. &lt;t3/&gt;Ellos renunciaron a las ambiciones a nivel nacional y están poniendo toda su energía en el nivel local de los municipios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In preparation for this trip, one of my first meetings was with an organisation who are doing great work locally, but they’re freaking out about how they can possibly expand their efforts to encompass a national scale.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170625T032229Z" creationid="hcartagena" creationdate="20170625T032229Z">
+        <seg>Como preparativo para este viaje, tuve una de mis primeras reuniones con una organización que están haciendo un trabajo local muy bueno, pero están vueltos locos por ampliar su alcance a escala nacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -919,6 +935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Progressives want to mobilise millions of people on the #OneTrueHashtag.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170625T030605Z" creationid="hcartagena" creationdate="20170625T030605Z">
+        <seg>Los progresistas quieren movilizar a millones de personas con #unverdaderohashtag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RB: All these software allow you to have a discussion but none of them has a bias towards concluding.  When you have a large group of people, it is extremely common for a small minority to get highly involved in the discussion while everyone else is standing back.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170414T035315Z" creationid="hcartagena" creationdate="20170414T034838Z">
@@ -1108,6 +1132,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20170415T043319Z" creationid="hcartagena" creationdate="20170415T042351Z">
         <seg>Entonces, supongamos que el software ahora tiene suficiente resiliencia como para que converjan los distintos tipos de procesos de toma de decisiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So much of the lefty US political discourse is focussed on a huge scale.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20170625T030451Z" creationid="hcartagena" creationdate="20170625T030451Z">
+        <seg>Gran parte del discurso político de izquierda estadounidense apunta a una gran escala.</seg>
       </tuv>
     </tu>
     <tu>
